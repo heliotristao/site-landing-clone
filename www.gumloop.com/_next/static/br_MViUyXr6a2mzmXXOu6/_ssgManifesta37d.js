@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcookie-policy","\u002Fcreators\u002F[username]","\u002Flove","\u002Fmcp\u002F[mcpId]","\u002Fprivacy-policy","\u002Ftemplates","\u002Ftemplates\u002F[template_slug]","\u002Ftemplates\u002Fsolutions\u002F[solution_slug]","\u002Ftos"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
